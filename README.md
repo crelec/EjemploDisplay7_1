@@ -7,5 +7,4 @@ El display en sus segmentos se enciende con ceros y se usan los pines del micro 
 
 ## Montaje
 
-![sietesegm_bb](https://user-images.githubusercontent.com/59096507/211741065-e6b01ac2-e702-4d96-ad7b-aeed002079c3.svg)
-
+![sietesegm_bb](https://user-images.githubusercontent.com/59096507/211837999-7b8d0a16-4f41-47f2-b7e5-9d304e83762e.svg)
